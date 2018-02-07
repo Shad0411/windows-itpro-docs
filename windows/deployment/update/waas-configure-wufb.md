@@ -220,7 +220,7 @@ In Windows 10, starting with version 1607, you can selectively option out of rec
 
 ## Summary: MDM and Group Policy for version 1703
 
-Below are quick-reference tables of the supported Windows Update for Business policy values for Windows 10, version 1607 and above.
+Below are quick-reference tables of the supported Windows Update for Business policy values for Windows 10, version 1703.
 
 **GPO: HKLM\Software\Policies\Microsoft\Windows\WindowsUpdate**
 
